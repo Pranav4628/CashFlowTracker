@@ -133,8 +133,6 @@ This project serves as a research platform to validate:
 
 ---
 
----
-
 ## 📁 Project Structure
 
 ```
@@ -234,7 +232,7 @@ CashFlowTracker/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Pranav80006/CashFlowTracker.git
+   git clone https://github.com/Pranav4628/CashFlowTracker.git
    cd CashFlowTracker/backend
    ```
 
@@ -403,12 +401,6 @@ We welcome contributions! Please follow these steps:
 4. Push to branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-### Code Quality
-- Follow PEP 8 for Python
-- Use type hints in Python
-- Write unit tests (>80% coverage)
-- Document functions and modules
-- Follow JavaScript ES6+ conventions for frontend
 
 ---
 
@@ -434,7 +426,7 @@ If you use this project in your research, please cite:
   title={CashFlow Tracker: ML-powered Cash Flow Forecasting for SMEs},
   author={Pranav},
   year={2026},
-  url={https://github.com/Pranav80006/CashFlowTracker}
+  url={https://github.com/Pranav4628/CashFlowTracker}
 }
 ```
 
@@ -443,8 +435,8 @@ If you use this project in your research, please cite:
 ## 📈 Project Status
 
 - **Phase 1 (Current):** System Design & Architecture ✅
-- **Phase 2 (Next):** Backend Implementation 🔄
-- **Phase 3:** Frontend Implementation 📅
+- **Phase 2 (Next):** Frontend Implementation 🔄
+- **Phase 3:** Backend Implementation 📅
 - **Phase 4:** Testing & Evaluation 📅
 - **Phase 5:** Research Paper & Publication 📅
 
@@ -458,4 +450,4 @@ If you use this project in your research, please cite:
 
 ---
 
-**Last Updated:** March 31, 2026
+**Last Updated:** April 04, 2026
