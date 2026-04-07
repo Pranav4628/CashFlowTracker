@@ -1,0 +1,6 @@
+// Central config — read env vars once, use everywhere
+const config = {
+    apiUrl: import.meta.env.VITE_API_URL || 'http://localhost:8000',
+};
+
+export default config;
